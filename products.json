@@ -1,0 +1,38 @@
+[
+  {
+    "name": "1",
+    "price": 222,
+    "featured": false,
+    "company": "nokia"
+  },
+  {
+    "name": "2",
+    "price": 222,
+    "featured": true,
+    "company": "sumsung"
+  },
+  {
+    "name": "3",
+    "price": 222,
+    "featured": false,
+    "company": "nokia"
+  },
+  {
+    "name": "652",
+    "price": 222,
+    "featured": true,
+    "company": "sumsung"
+  },
+  {
+    "name": "4",
+    "price": 222,
+    "featured": true,
+    "company": "realMe"
+  },
+  {
+    "name": "6",
+    "price": 222,
+    "featured": true,
+    "company": "realMe"
+  }
+]
